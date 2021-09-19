@@ -1,6 +1,6 @@
 # Analyze-AB-Test-Results
 
-This project was completed as part of Udacity's Profissional Data Analysis Nanodegree program.
+This project was completed as part of Udacity's Advanced Data Analysis Nanodegree program.
 
 Overview
 A company has developed a new e-commerce web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
